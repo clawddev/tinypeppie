@@ -1,39 +1,30 @@
-# Outline — Google Shopping Title Optimization (2026)
+# Outline — Google Shopping Title Optimization
 
-## Target keyword
-Google Shopping title optimization
+## Primary keyword
+- google shopping title optimization
 
-## Search intent
-Informational (how-to) with practical templates.
+## Meta title candidates
+- Google Shopping Title Optimization: Templates + Examples (2026)
+- Google Shopping Title Optimization: A Practical Guide (2026)
 
-## Angle
-Actionable formulas + examples + common mistakes + tie-in to feed rules/automation.
+## Meta description candidate
+Learn Google Shopping title optimization with proven templates, category examples, and a checklist to improve relevance, CTR, and performance for Shopping and PMax.
 
-## H1
-Google Shopping Title Optimization: Formulas, Examples, and a Simple Template
+## Suggested internal links (Cursor can place)
+- Button/anchor: "See AdSpector features" → /features
+- Anchor: "Feed Management" → (your feed management section/page)
+- Anchor: "AI Advisor" → (your AI advisor section/page)
 
-## Sections
-1) Why Shopping titles matter (CTR, relevance, query matching)
-2) What Google reads in a product title (priority signals)
-3) A simple title formula (baseline)
-   - Brand + Product type + Key attributes + Variant + Size/Color + Gender/Age + Material
-4) Category-specific examples (5)
+## CTA options (soft)
+- "If you manage Shopping/PMax at scale, rules-based title templates + change history make testing safer."
+
+## Structure
+1) What makes a good Shopping title?
+2) How Google uses titles
+3) Baseline title formula
+4) Category templates + examples (apparel, shoes, electronics, home, beauty)
 5) Common mistakes
-   - keyword stuffing
-   - missing GTIN/brand
-   - inconsistent variants
-   - too generic titles
-6) How to test titles without tanking performance
-   - incremental changes
-   - split by category
-   - annotate changes
-7) Automation ideas
-   - rules and templates
-   - brand vs non-brand variants
-   - per-category token templates
-8) Checklist
-9) Soft CTA
-   - mention feed rules + title builder + change history in AdSpector
-
-## CTA copy (soft)
-If you manage Shopping or PMax at scale, a rules-based title builder with change history makes title testing safer and faster.
+6) Safe rollout plan
+7) Checklist
+8) Soft product note
+9) FAQ
