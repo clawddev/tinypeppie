@@ -1,0 +1,6 @@
+created_at,source,company_name,company_domain,linkedin_company_url,country,city,signals,job_post_url,job_title,contact_name,contact_role,contact_linkedin_url,email,notes,status
+2026-02-22T16:19:41,linkedin,DUMMY Agency 1,dummy-agency-1.example,https://linkedin.com/company/dummy-agency-1,DE,Berlin,hiring SEA manager,https://jobs.example/dummy1,Senior SEA Manager,,,,,placeholder lead for schema test,new
+2026-02-22T16:19:41,job_board,DUMMY Agency 2,dummy-agency-2.example,https://linkedin.com/company/dummy-agency-2,DE,Hamburg,hiring Google Ads manager,https://jobs.example/dummy2,Google Ads Manager,,,,,placeholder lead for schema test,new
+2026-02-22T16:19:41,directory,DUMMY Agency 3,dummy-agency-3.example,https://linkedin.com/company/dummy-agency-3,DE,Munich,agency managing multiple accounts,,,,,,,placeholder lead for schema test,new
+2026-02-22T16:19:41,job_board,DUMMY Agency 4,dummy-agency-4.example,https://linkedin.com/company/dummy-agency-4,DE,Cologne,hiring Performance Marketing Manager,https://jobs.example/dummy4,Performance Marketing Manager (SEA),,,,,placeholder lead for schema test,new
+2026-02-22T16:19:41,linkedin,DUMMY Agency 5,dummy-agency-5.example,https://linkedin.com/company/dummy-agency-5,DE,Frankfurt,hiring PPC specialist,https://jobs.example/dummy5,PPC Specialist (Google Ads),,,,,placeholder lead for schema test,new

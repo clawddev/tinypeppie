@@ -1,0 +1,20 @@
+# Secrets
+telegram_token.txt
+*.key
+*.pem
+.env
+
+# Logs / transient
+telegram_*.log
+telegram_log.json
+telegram_offset.txt
+
+# OS
+.DS_Store
+
+# Python/node caches
+__pycache__/
+node_modules/
+
+# OpenClaw transient
+.pi/

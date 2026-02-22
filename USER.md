@@ -1,6 +1,18 @@
+---
+summary: "User profile record"
+read_when:
+  - Bootstrapping a workspace manually
+---
+
 # USER.md - About Your Human
 
-- **Name:** 
-- **What to call them:** Bro
-- **Timezone:** Europe/Berlin (Germany)
-- **Notes:** Wants clear explanations when needed. Step-by-step rules over time. Grants broad permission for running commands and messaging, but we will refine boundaries gradually.
+- **Name:** bro
+- **What to call them:** bro
+- **Timezone:** Europe/Berlin
+- **Notes:** Wants frequent proactive updates. Permissions: agent is allowed to act independently within the workspace to get leads.
+
+## Context
+
+- Product: AdSpector (adspector.ai)
+- Priority: get more leads (ICP: DE agencies managing multiple Google Ads accounts)
+
