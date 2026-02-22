@@ -1,0 +1,16 @@
+priority,cluster,stage,primary_keyword,working_title,slug,notes
+1,Feed Optimization,TOFU,google shopping title optimization,Google Shopping Title Optimization: Templates, Examples, and Best Practices,google-shopping-title-optimization,High intent + ties to Feed Management + title builder
+2,Feed Optimization,TOFU,google merchant center product titles,How to Write High-Converting Product Titles for Google Merchant Center,merchant-center-product-titles,Include attribute ordering + category templates
+3,PMax,TOFU,performance max optimization,Performance Max Optimization: A Practical Checklist (2026),performance-max-optimization-checklist,Agency-friendly; mention channel mix alerts
+4,Negatives/Queries,TOFU,negative keywords for google shopping,Negative Keywords for Google Shopping: Strategy + Examples,negative-keywords-google-shopping,Link to dashboard waste + one-click exclusions
+5,Audits,MOFU,google ads audit checklist,Google Ads Audit Checklist for Agencies (Structure + Tracking + Waste),google-ads-audit-checklist-agencies,Strong agency intent
+6,Merchant Center,TOFU,merchant center disapprovals,Merchant Center Disapprovals: Causes, Fixes, and Prevention,merchant-center-disapprovals-fixes,Include URL health + eligibility alerts
+7,PMax,MOFU,pmax channel performance,How to Diagnose PMax Channel Mix (YouTube/Display vs Search),pmax-channel-mix-diagnosis,Direct tie to alerts module
+8,Feed Optimization,MOFU,custom labels for performance max,Custom Labels for PMax: Profit, Seasonality, and Best-Sellers,custom-labels-for-pmax,Link to feed buckets + COGS/POAS
+9,Negatives/Queries,MOFU,search terms mining workflow,Search Terms Mining Workflow (Agency SOP),search-terms-mining-workflow,Turn into reusable SOP
+10,Audits,MOFU,conversion tracking audit google ads,Google Ads Conversion Tracking Audit (What to Check),google-ads-conversion-tracking-audit,Agency pain; connect to audits + alerts
+11,Merchant Center,TOFU,google merchant center feed rules,Feed Rules in Merchant Center: When to Use Them (and When Not To),merchant-center-feed-rules,Contrast with dedicated feed management
+12,PMax,TOFU,pmax best practices ecommerce,Performance Max Best Practices for E-commerce Brands (and Agencies),pmax-best-practices-ecommerce,Evergreen
+13,Feed Optimization,TOFU,gtin missing merchant center,Missing GTIN in Merchant Center: What It Breaks + How to Fix It,missing-gtin-merchant-center,Common issue
+14,Audits,BOFU,best google ads audit tool,Best Google Ads Audit Tools (What to Look For),best-google-ads-audit-tools,Comparison-style; careful tone
+15,Feed Optimization,TOFU,shopping feed optimization,Shopping Feed Optimization: The Complete Guide,shopping-feed-optimization-guide,Pillar page
